@@ -52,7 +52,7 @@ IoT automation, sensor interfacing and embedded system solutions built on Raspbe
 Autonomous agents, large language model pipelines and multi agent system architectures.
 [View Repository](#)
 
-### Robotic Projects
+### [Robotic Projects](#)
 Manipulation, locomotion, Isaac Lab simulation and real world robotic control systems.
 [View Repository](#)
 
