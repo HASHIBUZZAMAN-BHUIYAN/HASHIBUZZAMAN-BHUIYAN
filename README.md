@@ -40,21 +40,21 @@ Scan a QR code below to connect directly.
 
 ## Projects
 
-### Nvidia Jetson Projects
+### [Nvidia Jetson Projects](#)
 Embedded intelligence and real time computer vision deployments on Nvidia Jetson hardware.
-[View Repository](#)
 
-### Raspberry Pi Projects
+
+### [Raspberry Pi Projects](#)
 IoT automation, sensor interfacing and embedded system solutions built on Raspberry Pi.
-[View Repository](#)
 
-### Agentic AI Projects
+
+### [Agentic AI Projects](#)
 Autonomous agents, large language model pipelines and multi agent system architectures.
-[View Repository](#)
+
 
 ### [Robotic Projects](#)
 Manipulation, locomotion, Isaac Lab simulation and real world robotic control systems.
-[View Repository](#)
+
 
 ---
 
