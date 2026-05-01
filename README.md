@@ -40,19 +40,19 @@ Scan a QR code below to connect directly.
 
 ## Projects
 
-### [Nvidia Jetson Projects](#)
+### [Nvidia Jetson Projects](https://github.com/HASHIBUZZAMAN-BHUIYAN/JETSON-PROJECTS)
 Embedded intelligence and real time computer vision deployments on Nvidia Jetson hardware.
 
 
-### [Raspberry Pi Projects](#)
+### [Raspberry Pi Projects](https://github.com/HASHIBUZZAMAN-BHUIYAN/Raspberry-Pi-Projects)
 IoT automation, sensor interfacing and embedded system solutions built on Raspberry Pi.
 
 
-### [Agentic AI Projects](#)
+### [Agentic AI Projects](https://github.com/HASHIBUZZAMAN-BHUIYAN/AI-AGENT)
 Autonomous agents, large language model pipelines and multi agent system architectures.
 
 
-### [Robotic Projects](#)
+### [Robotic Projects](https://github.com/HASHIBUZZAMAN-BHUIYAN/ROS)
 Manipulation, locomotion, Isaac Lab simulation and real world robotic control systems.
 
 
