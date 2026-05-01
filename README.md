@@ -2,7 +2,7 @@
 
 # Hashibuzzaman Bhuiyan
 
-**Robotics and AI developer based in Daejeon, South Korea.**
+**Robotics and AI developer living in Daejeon, South Korea.**
 **I am specialized in embedded intelligence, autonomous systems, agentic AI pipelines and robotic control.**
 **I build systems that think, adapt and operate in the real world.**
 **Open to collaboration, research and innovation.**
