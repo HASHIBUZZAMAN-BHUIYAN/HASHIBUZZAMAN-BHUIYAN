@@ -31,10 +31,10 @@ Every project in this profile is something I designed, built, tested and improve
 
 Scan a QR code below to connect directly.
 
-| GitHub | Instagram | LinkedIn |
+| [GitHub](https://github.com/HASHIBUZZAMAN-BHUIYAN) | [Instagram](https://www.instagram.com/hashib____0/) | [LinkedIn](https://www.linkedin.com/in/hashibuzzaman-bhuiyan/) |
 |:------:|:---------:|:--------:|
 | <img src="./qr/GITHUB.png" width="120" /> | <img src="./qr/INSTAGRAM.png" width="120" /> | <img src="./qr/LINKEDIN.png" width="120" /> |
-| [Follow my code](https://github.com/HASHIBUZZAMAN-BHUIYAN) | [Follow my journey](https://www.instagram.com/hashib____0/) | [Let us connect](https://www.linkedin.com/in/hashibuzzaman-bhuiyan/) |
+| Follow my code | Follow my journey | Let us connect |
 
 ---
 
