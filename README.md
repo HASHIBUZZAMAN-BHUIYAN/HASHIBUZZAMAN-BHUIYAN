@@ -60,6 +60,6 @@ Manipulation, locomotion, Isaac Lab simulation and real world robotic control sy
 
 <div align="center">
 
-*Daejeon, South Korea — Open to collaboration, research and new opportunities.*
+* Open to collaboration, research and new opportunities.*
 
 </div>
